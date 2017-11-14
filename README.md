@@ -33,9 +33,7 @@ With [Tom Ouldridge](https://www.imperial.ac.uk/people/t.ouldridge) and [Pieter 
 We found and explained a number of interesting results, including the existence of an 'information catalyst' regime, where although the mutual information is left unchanged (or even increases) during the machine's operation, its efficiency is improved.
 
 ### Publications:
-_[Biochemical Machines for the Interconversion of Mutual Information and Work](https://arxiv.org/abs/1604.05474)_
-T. McGrath, N.S. Jones, P.R. ten Wolde, T.E. Ouldridge
-Physical Review Letters, 2017
+_[Biochemical Machines for the Interconversion of Mutual Information and Work](https://arxiv.org/abs/1604.05474)_ | T. McGrath, N.S. Jones, P.R. ten Wolde, T.E. Ouldridge | Physical Review Letters, 2017
 
 # Non-research projects
 ## Maths Helpdesk
