@@ -25,7 +25,6 @@ We were able to identify exactly what effect each drug had on behaviour, as well
 ### Publications
 _Interpretable forecasting and control of feeding behaviour at the micro and mesoscale_ | T. McGrath, E. Spreckley, A.F. Rodriguez, A. Alamshah, E. Akalestou, K.G. Murphy, N. S. Jones | _In preparation_
 
-_Quantitative approaches to energy and glucose homeostasis: machine learning and modelling for precision understanding and prediction_ | T. McGrath, K.G. Murphy, N.S. Jones | _Under review_
 
 ## Biochemical machines for interconversion of information and work
 With [Tom Ouldridge](https://www.imperial.ac.uk/people/t.ouldridge) and [Pieter Rein ten Wolde](https://amolf.nl/research-groups/biochemical-networks) I worked out the properties of what could be described as a 'biochemical Maxwell's Demon': a machine made of biologically-available parts designed to allow the conversion between mutual information and energy. 
