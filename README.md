@@ -23,15 +23,9 @@ With Nick Jones, Kevin Murphy, and other researchers from Medicine we came up wi
 We were able to identify exactly what effect each drug had on behaviour, as well as do _in silico_ testing to try out optimised therapies and behavioural changes. It turns out that inter-individual variation in behaviour is pronounced, even for genetically identical animals in the same conditions, which has implications for the structure of models that attempt to infer reward functions from behaviour (see above).
 
 ### Publications
-_Interpretable forecasting and control of feeding behaviour at the micro and mesoscale_
+_Interpretable forecasting and control of feeding behaviour at the micro and mesoscale_ | T. McGrath, E. Spreckley, A.F. Rodriguez, A. Alamshah, E. Akalestou, K.G. Murphy, N. S. Jones | _In preparation_
 
-T. McGrath, E. Spreckley, A.F. Rodriguez, A. Alamshah, E. Akalestou, K.G. Murphy, N. S. Jones
-_In preparation_
-
-_Quantitative approaches to energy and glucose homeostasis: machine learning and modelling for precision understanding and prediction_
-
-T. McGrath, K.G. Murphy, N.S. Jones
-_Under review_
+_Quantitative approaches to energy and glucose homeostasis: machine learning and modelling for precision understanding and prediction_ | T. McGrath, K.G. Murphy, N.S. Jones | _Under review_
 
 ## Biochemical machines for interconversion of information and work
 With [Tom Ouldridge](https://www.imperial.ac.uk/people/t.ouldridge) and [Pieter Rein ten Wolde](https://amolf.nl/research-groups/biochemical-networks) I worked out the properties of what could be described as a 'biochemical Maxwell's Demon': a machine made of biologically-available parts designed to allow the conversion between mutual information and energy. 
