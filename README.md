@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Tom McGrath
+### Maths PhD student at Imperial College
 
-You can use the [editor on GitHub](https://github.com/tomMcGrath/tommcgrath.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Research interests
+My research covers two main themes: inference of patterns that drive behaviour, and physical constraints on inference. I study both of these through a combination of statistical physics, Bayesian inference, and information theory. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm currently interested in feeding behaviour as a prototype for more complex motivated behaviours - it's a fundamental behaviour which is shared across species, but is rich enough to include aspects of reward, learning, and planning. With mice we also have good _in vivo_ access to measure and control the neural populations underlying feeding ([review](http://www.cell.com/cell-metabolism/abstract/S1550-4131(15)00617-8)), so we can expect a better back-and-forth between experimental and theoretical studies than is possible with complex human behaviours we might eventually want to understand.
 
-### Markdown
+## Contact me
+[Email](mailto:thomas.m.mcgrath@gmail.com) is probably best, but you can reach me on [LinkedIn](https://www.linkedin.com/in/tom-mcgrath-7337bb151/) as well.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Current projects
+### Inverse reinforcement learning for animal preferences
 
-```markdown
-Syntax highlighted code block
+### Accelerating sampling by breaking detailed balance
 
-# Header 1
-## Header 2
-### Header 3
+## Finished projects
+### Stochastic modelling of rat feeding behaviour
 
-- Bulleted
-- List
+### Biochemical machines for interconversion of information and work
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tomMcGrath/tommcgrath.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Publications
