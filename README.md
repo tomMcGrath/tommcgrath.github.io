@@ -21,12 +21,12 @@ With Nick Jones, Kevin Murphy, and other researchers from Medicine we came up wi
 
 We were able to identify exactly what effect each drug had on behaviour, as well as do _in silico_ testing to try out optimised therapies and behavioural changes. It turns out that inter-individual variation in behaviour is pronounced, even for genetically identical animals in the same conditions, which has implications for the structure of models that attempt to infer reward functions from behaviour (see above).
 
-_Publications:_
-Interpretable forecasting and control of feeding behaviour at the micro and mesoscale
+**Publications:**
+_Interpretable forecasting and control of feeding behaviour at the micro and mesoscale_
 T. McGrath, E. Spreckley, A.F. Rodriguez, A. Alamshah, E. Akalestou, K.G. Murphy, N. S. Jones
 _In preparation_
 
-Quantitative approaches to energy and glucose homeostasis: machine learning and modelling for precision understanding and prediction
+_Quantitative approaches to energy and glucose homeostasis: machine learning and modelling for precision understanding and prediction_
 T. McGrath, K.G. Murphy, N.S. Jones
 _Under review_
 
@@ -35,8 +35,8 @@ With [Tom Ouldridge](https://www.imperial.ac.uk/people/t.ouldridge) and [Pieter 
 
 We found and explained a number of interesting results, including the existence of an 'information catalyst' regime, where although the mutual information is left unchanged (or even increases) during the machine's operation, its efficiency is improved.
 
-_Publications:_
-[Biochemical Machines for the Interconversion of Mutual Information and Work](https://arxiv.org/abs/1604.05474)
+**Publications:**
+_[Biochemical Machines for the Interconversion of Mutual Information and Work](https://arxiv.org/abs/1604.05474)_
 T. McGrath, N.S. Jones, P.R. ten Wolde, T.E. Ouldridge
 Physical Review Letters, 2017
 
