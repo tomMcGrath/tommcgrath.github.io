@@ -191,7 +191,7 @@ $$
 L = -\log p(y | x) +  (S(x)-S(x))^2,
 $$
 
-where y is the output, x the input, $S(x) one of the sufficient statistics for y and $\hat{S}$ the output of a linear probe for S.
+where y is the output, x the input, $S(x)$ one of the sufficient statistics for y and $\hat{S}$ the output of a linear probe for S.
 
 My expectation is that neural networks would be able to evade the linear probe, but at a substantial cost in training time and/or generalisation ability (I’d expect a grokking phase diagram to change, for example).
 
