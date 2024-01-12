@@ -1,46 +1,6 @@
-<!-----
-
-You have some errors, warnings, or alerts. If you are using reckless mode, turn it off to see inline alerts.
-* ERRORs: 0
-* WARNINGs: 1
-* ALERTS: 3
-
-Conversion time: 0.743 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β35
-* Fri Jan 12 2024 08:28:21 GMT-0800 (PST)
-* Source doc: Safety as a Scientific Pursuit Draft 2 - Master Copy
-
-WARNING:
-You have some equations: look for ">>>>>  gd2md-html alert:  equation..." in output.
-
------>
-
-
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 1; ALERTS: 3.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-<a href="#gdcalert2">alert2</a>
-<a href="#gdcalert3">alert3</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
-
 # Safety as a Scientific Pursuit
 
-_“Wir müssen wissen – wir werden wissen” _- David Hilbert
+“Wir müssen wissen – wir werden wissen” - David Hilbert
 
 
 ## Here be dragons?
@@ -231,17 +191,7 @@ $$
 L = -\log p(y | x) +  (S(x)-S(x))^2,
 $$
 
-,
-
-where y is the output, x the input, 
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: equation: use MathJax/LaTeX if your publishing platform supports it. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
- one of the sufficient statistics for y and 
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: equation: use MathJax/LaTeX if your publishing platform supports it. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
- the output of a linear probe for S.
+where y is the output, x the input, $S(x) one of the sufficient statistics for y and $\hat{S}$ the output of a linear probe for S.
 
 My expectation is that neural networks would be able to evade the linear probe, but at a substantial cost in training time and/or generalisation ability (I’d expect a grokking phase diagram to change, for example).
 
