@@ -227,7 +227,9 @@ A common concern about using interpretability tools is that models will learn to
 
 
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: equation: use MathJax/LaTeX if your publishing platform supports it. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+$$
+L = -\log p(y | x) +  (S(x)-S(x))^2,
+$$
 
 ,
 
