@@ -12,5 +12,9 @@ I did my PhD ([thesis](https://spiral.imperial.ac.uk/bitstream/10044/1/85919/1/M
 # Publications
 My papers are listed on my [Google Scholar page](https://scholar.google.com/citations?user=wZurn8MAAAAJ&hl=en).
 
+# Writing
+I have a [substack](https://banburismus.substack.com/) if you prefer to read there.
+- [Safety as a scientific pursuit](https://tommcgrath.github.io/safety_as_science)
+
 # Contact me
 [Email](mailto:thomas.m.mcgrath@gmail.com) is probably best, but you can reach me on [Twitter](https://twitter.com/banburismus_) or [LinkedIn](https://www.linkedin.com/in/tom-mcgrath-7337bb151/) as well.
