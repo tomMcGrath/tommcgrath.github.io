@@ -10,7 +10,9 @@ I was at DeepMind from 2019 to late 2023, where I worked on:
 I did my PhD ([thesis](https://spiral.imperial.ac.uk/bitstream/10044/1/85919/1/McGrath-T-2020-PhD-Thesis.pdf)) at Imperial College with [Nick Jones](https://www.imperial.ac.uk/people/nick.jones/research.html) and [Kevin Murphy](https://www.imperial.ac.uk/people/k.g.murphy).
 
 # Research
-My papers are listed on my [Google Scholar page](https://scholar.google.com/citations?user=wZurn8MAAAAJ&hl=en). I have a list of [research projects I'm interested in working on](https://tommcgrath.github.io/research-projects). If there's something on there you're interested in collaborating on, please get in touch!
+My papers are listed on my [Google Scholar page](https://scholar.google.com/citations?user=wZurn8MAAAAJ&hl=en). I have a list of [research projects I'm interested in working on](https://tommcgrath.github.io/research-projects).
+
+If there's something on there you're interested in collaborating on, please get in touch!
 
 # Writing
 I have a [substack](https://banburismus.substack.com/) if you prefer to read there.
