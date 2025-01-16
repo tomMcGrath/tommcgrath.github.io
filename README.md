@@ -1,5 +1,5 @@
 # Work
-I'm currently on sabbatical, and am starting to explore some early stage ideas in both applied interpretability and foundation datasets.
+I'm chief scientist and co-founder of [Goodfire](https://www.goodfire.ai/). We're an AI interpretability startup.
 
 I was at DeepMind from 2019 to late 2023, where I worked on:
 - Interpretability for LLMs (e.g. the [Hydra Effect](https://arxiv.org/abs/2307.15771), [Copy Suppression](https://arxiv.org/abs/2310.04625)) and [AlphaZero](https://www.pnas.org/doi/full/10.1073/pnas.2206625119).
